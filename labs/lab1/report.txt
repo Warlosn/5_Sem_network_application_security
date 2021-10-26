@@ -1,0 +1,239 @@
+
+Активные подключения
+
+  Имя    Локальный адрес        Внешний адрес          Состояние
+  TCP    0.0.0.0:135            DESKTOP-E4TFQEB:0      LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            DESKTOP-E4TFQEB:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:1947           DESKTOP-E4TFQEB:0      LISTENING
+ [hasplms.exe]
+  TCP    0.0.0.0:3306           DESKTOP-E4TFQEB:0      LISTENING
+ [mysqld.exe]
+  TCP    0.0.0.0:5040           DESKTOP-E4TFQEB:0      LISTENING
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:5357           DESKTOP-E4TFQEB:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:33060          DESKTOP-E4TFQEB:0      LISTENING
+ [mysqld.exe]
+  TCP    0.0.0.0:49664          DESKTOP-E4TFQEB:0      LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:49665          DESKTOP-E4TFQEB:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:49666          DESKTOP-E4TFQEB:0      LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49667          DESKTOP-E4TFQEB:0      LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49668          DESKTOP-E4TFQEB:0      LISTENING
+  SessionEnv
+ [svchost.exe]
+  TCP    0.0.0.0:49669          DESKTOP-E4TFQEB:0      LISTENING
+ [spoolsv.exe]
+  TCP    0.0.0.0:49672          DESKTOP-E4TFQEB:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    127.0.0.1:49673        DESKTOP-E4TFQEB:49674  ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:49674        DESKTOP-E4TFQEB:49673  ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:49675        DESKTOP-E4TFQEB:49676  ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:49676        DESKTOP-E4TFQEB:49675  ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:54828        DESKTOP-E4TFQEB:0      LISTENING
+ [sqlservr.exe]
+  TCP    127.0.0.1:62071        DESKTOP-E4TFQEB:0      LISTENING
+ [sqlservr.exe]
+  TCP    169.254.29.208:139     DESKTOP-E4TFQEB:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    192.168.0.104:139      DESKTOP-E4TFQEB:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    192.168.0.104:50097    40.83.247.108:https    ESTABLISHED
+ [OneDrive.exe]
+  TCP    192.168.0.104:58853    52.109.88.111:https    TIME_WAIT
+  TCP    192.168.0.104:58854    52.109.88.111:https    TIME_WAIT
+  TCP    192.168.0.104:59243    149.154.167.50:https   ESTABLISHED
+ [Telegram.exe]
+  TCP    192.168.0.104:62493    20.199.120.85:https    ESTABLISHED
+  WpnService
+ [svchost.exe]
+  TCP    192.168.0.104:65358    52.168.117.169:https   TIME_WAIT
+  TCP    192.168.0.104:65359    a-0001:https           ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.0.104:65360    40.101.83.194:https    ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.0.104:65362    13.107.42.254:https    ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.0.104:65363    52.113.196.254:https   ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.0.104:65364    134.17.0.104:https     CLOSE_WAIT
+ [SearchApp.exe]
+  TCP    192.168.0.104:65365    204.79.197.222:https   ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.0.104:65366    20.54.232.160:https    TIME_WAIT
+  TCP    192.168.0.104:65367    20.54.232.160:https    ESTABLISHED
+  CDPUserSvc_943a6
+ [svchost.exe]
+  TCP    [::]:135               DESKTOP-E4TFQEB:0      LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               DESKTOP-E4TFQEB:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:1947              DESKTOP-E4TFQEB:0      LISTENING
+ [hasplms.exe]
+  TCP    [::]:3306              DESKTOP-E4TFQEB:0      LISTENING
+ [mysqld.exe]
+  TCP    [::]:5357              DESKTOP-E4TFQEB:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:33060             DESKTOP-E4TFQEB:0      LISTENING
+ [mysqld.exe]
+  TCP    [::]:49664             DESKTOP-E4TFQEB:0      LISTENING
+ [lsass.exe]
+  TCP    [::]:49665             DESKTOP-E4TFQEB:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::]:49666             DESKTOP-E4TFQEB:0      LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49667             DESKTOP-E4TFQEB:0      LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49668             DESKTOP-E4TFQEB:0      LISTENING
+  SessionEnv
+ [svchost.exe]
+  TCP    [::]:49669             DESKTOP-E4TFQEB:0      LISTENING
+ [spoolsv.exe]
+  TCP    [::]:49672             DESKTOP-E4TFQEB:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    [::1]:49670            DESKTOP-E4TFQEB:0      LISTENING
+ [jhi_service.exe]
+  TCP    [::1]:54828            DESKTOP-E4TFQEB:0      LISTENING
+ [sqlservr.exe]
+  TCP    [::1]:62071            DESKTOP-E4TFQEB:0      LISTENING
+ [sqlservr.exe]
+  UDP    0.0.0.0:500            *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:1947           *:*                    
+ [hasplms.exe]
+  UDP    0.0.0.0:2343           *:*                    
+ [lkads.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  fdPHost
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  fdPHost
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:4500           *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:5000           *:*                    
+ [lkcitdl.exe]
+  UDP    0.0.0.0:5001           *:*                    
+ [lktsrv.exe]
+  UDP    0.0.0.0:5050           *:*                    
+  CDPSvc
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:5355           *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:6000           *:*                    
+ [lkcitdl.exe]
+  UDP    0.0.0.0:6001           *:*                    
+ [lktsrv.exe]
+  UDP    0.0.0.0:55572          *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:62356          *:*                    
+  fdPHost
+ [svchost.exe]
+  UDP    127.0.0.1:1900         *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:54538        *:*                    
+  iphlpsvc
+ [svchost.exe]
+  UDP    127.0.0.1:58722        *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    169.254.29.208:137     *:*                    
+ Не удается получить сведения о владельце
+  UDP    169.254.29.208:138     *:*                    
+ Не удается получить сведения о владельце
+  UDP    169.254.29.208:1900    *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    169.254.29.208:58721   *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.0.104:137      *:*                    
+ Не удается получить сведения о владельце
+  UDP    192.168.0.104:138      *:*                    
+ Не удается получить сведения о владельце
+  UDP    192.168.0.104:1900     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.0.104:58723    *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:500               *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:1947              *:*                    
+ [hasplms.exe]
+  UDP    [::]:3702              *:*                    
+  fdPHost
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  fdPHost
+ [svchost.exe]
+  UDP    [::]:4500              *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:5353              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:5355              *:*                    
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:55573             *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:62357             *:*                    
+  fdPHost
+ [svchost.exe]
+  UDP    [::1]:1900             *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:58719            *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::4403:4a79:4f53:1dd0%4]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::4403:4a79:4f53:1dd0%4]:58718  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::e92f:dad8:3d28:a950%14]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::e92f:dad8:3d28:a950%14]:58720  *:*                    
+  SSDPSRV
+ [svchost.exe]
