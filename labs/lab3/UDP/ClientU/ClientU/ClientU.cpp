@@ -32,7 +32,7 @@ int main()
         int ls = sizeof(serv);
         serv.sin_family = AF_INET;    
         serv.sin_port = htons(2000);   
-        serv.sin_addr.s_addr = inet_addr("10.208.97.28");                
+        serv.sin_addr.s_addr = inet_addr("127.0.0.1");                
 
         clock_t start, end;
         char ibuf[50] = "server: принято ";
