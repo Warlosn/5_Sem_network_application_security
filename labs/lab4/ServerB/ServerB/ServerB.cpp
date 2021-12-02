@@ -25,7 +25,7 @@ int main(int argc, char* argv[])
     server.sin_family = AF_INET;
     server.sin_port = htons(2000);
     //server.sin_addr.s_addr = INADDR_ANY; 
-    server.sin_addr.s_addr = inet_addr("192.168.43.157");
+    server.sin_addr.s_addr = inet_addr("192.168.43.220");
 
     memset(&client, 0, sizeof(client));
     int lclient = sizeof(client);

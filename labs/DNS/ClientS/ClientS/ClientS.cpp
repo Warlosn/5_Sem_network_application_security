@@ -8,8 +8,10 @@
 #include "Winsock2.h"
 #pragma comment(lib, "WS2_32.lib")
 
+
 #define CALL "Hello"
-#define NAME "DZUSHMASTER"
+#define NAME "LAPTOP-N0QMVJ9U"
+//#define NAME "DZUSHMASTER"
 #define PORT 2000
 
 
