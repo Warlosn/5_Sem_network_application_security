@@ -1,0 +1,5 @@
+﻿  ConcurrentServer.cpp
+D:\5sem\help\Programming-and-reliability-of-network-applications-5-sem-\ConcurrentServer\ConcurrentServer\ServiceWorkTime.h(21,10): warning C4101: swt_name: неиспользованная локальная переменная
+D:\5sem\help\Programming-and-reliability-of-network-applications-5-sem-\ConcurrentServer\ConcurrentServer\DispathServer.h(38,25): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\5sem\help\Programming-and-reliability-of-network-applications-5-sem-\ConcurrentServer\ConcurrentServer\DispathServer.h(39,28): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  ConcurrentServer.vcxproj -> D:\5sem\help\Programming-and-reliability-of-network-applications-5-sem-\ConcurrentServer\SH_Laba_8_10\Debug\ConcurrentServer.exe

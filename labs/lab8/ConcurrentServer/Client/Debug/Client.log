@@ -1,0 +1,3 @@
+﻿  Client.cpp
+D:\5sem\help\Programming-and-reliability-of-network-applications-5-sem-\ConcurrentServer\Client\Client.cpp(101,18): warning C4101: obuf: неиспользованная локальная переменная
+  Client.vcxproj -> D:\5sem\help\Programming-and-reliability-of-network-applications-5-sem-\ConcurrentServer\SH_Laba_8_10\Debug\Client.exe

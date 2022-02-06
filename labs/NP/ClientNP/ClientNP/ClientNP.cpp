@@ -74,7 +74,7 @@ int main()
 
         system("pause");
     }
-    catch (string ErrorPipeText) {
-        cout << endl << SetPipeError;
+        catch (string ErrorPipeText) {
+            cout << endl << SetPipeError;
+        }
     }
-}

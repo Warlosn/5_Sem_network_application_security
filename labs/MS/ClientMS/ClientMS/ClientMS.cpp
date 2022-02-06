@@ -5,7 +5,7 @@
 #include "ErrorMsgText.h"
 #include "Windows.h"
 
-#define NAME L"\\\\*\\mailslot\\Box"
+#define NAME L"\\\\LAPTOP-N0QMVJ9U\\mailslot\\Box"
 #define STOP "STOP"
 
 using namespace std;
@@ -17,7 +17,6 @@ int main()
     HANDLE cM;
     DWORD rb;
     clock_t start, end;
-    char wbuf[300] = "Hello from Maislot-client";
 
     try {
         cout << "ClientMS\n\n";
@@ -33,11 +32,12 @@ int main()
 
         for (int i = 1; i <= countMessage; i++) {
             if (i) {
-
                 start = clock();
             }
 
-            if (!WriteFile(cM, wbuf, sizeof(wbuf), &rb, NULL)) {
+            string wbuf = "Hello from Maislot-client" + to_string(i);
+
+            if (!WriteFile(cM, wbuf.c_str(), sizeof(wbuf), &rb, NULL)) {
                 throw SetPipeError("WriteFile: ", GetLastError());
             }
 

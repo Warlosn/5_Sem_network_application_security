@@ -14,7 +14,7 @@ int main()
     setlocale(LC_ALL, "rus");
 
     HANDLE sH;
-    DWORD rb, time = 1800000, nMaxMessageSize = 1000;
+    DWORD rb, time = 1800000, nMaxMessageSize = 400;
     clock_t start, end;
     char rbuf[300];
     bool flag = true;

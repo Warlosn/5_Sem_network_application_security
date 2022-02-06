@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\5sem\help\Programming-and-reliability-of-network-applications-5-sem-\ConcurrentServer\Service_Library\RandServer.h(31,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     Создается библиотека D:\5sem\help\Programming-and-reliability-of-network-applications-5-sem-\ConcurrentServer\SH_Laba_8_10\Debug\Service_Library.lib и объект D:\5sem\help\Programming-and-reliability-of-network-applications-5-sem-\ConcurrentServer\SH_Laba_8_10\Debug\Service_Library.exp
+  Service_Library.vcxproj -> D:\5sem\help\Programming-and-reliability-of-network-applications-5-sem-\ConcurrentServer\SH_Laba_8_10\Debug\Service_Library.dll

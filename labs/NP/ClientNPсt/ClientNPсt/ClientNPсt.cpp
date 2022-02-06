@@ -6,7 +6,7 @@
 #include "Windows.h"
 
 #define STOP "STOP"
-#define NAME L"\\\\.\\pipe\\Tube"
+#define NAME L"\\\\Dzushmaster\\pipe\\Tube"
 
 using namespace std;
 
